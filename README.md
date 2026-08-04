@@ -4,6 +4,6 @@ Este repositorio contiene el desarrollo de la práctica realizada con la aplicac
 ## Archivos
 - Informe_IEEE.pdf: Informe final.
 - procesar_datos.m: Código desarrollado en MATLAB.
-- Analisis_PhyPhox.ipynb: Código desarrollado en Google Colab.
+- Analisis_PhyPhox.py: Código desarrollado en python.
 - Data.csv y Data con comas.csv: Datos experimentales.
 - grafica_resultados_matlab.png: Gráfica obtenida a partir del procesamiento de los datos.
